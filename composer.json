@@ -1,0 +1,11 @@
+{
+    "name": "poojit/tradeera",
+    "description": "This is a project related to share market information",
+    "authors": [
+        {
+            "name": "jitu patidar",
+            "email": "jitu@gmail.com"
+        }
+    ],
+    "require": {}
+}
