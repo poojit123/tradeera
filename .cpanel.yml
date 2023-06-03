@@ -2,6 +2,6 @@
 deployment:
   tasks:
     - export DEPLOYPATH=/home/rsmmkvli51dh/public_html/
+    # - /bin/cp include/* $DEPLOYPATH
+    # - /bin/cp assets/* $DEPLOYPATH
     - /bin/cp * $DEPLOYPATH
-    - /bin/cp include/* $DEPLOYPATH
-    - /bin/cp assets/* $DEPLOYPATH
