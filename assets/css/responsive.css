@@ -1,0 +1,364 @@
+:root {
+    --primary-color: #f8952c;
+    --secondary-color: #063c83;
+    --black-color: #000;
+    --white-color:#fff;
+    --grey-color: #b6bbc0;
+    --light-grey-color: #cdd8e6;
+  }
+@media (min-width: 1200px) and (max-width: 1399px){
+    .container {
+        max-width: 1020px;
+    }
+}
+@media(max-width:991.98px){
+    .container {
+        max-width: 100%;
+    }
+}
+@media(max-width:1399.98px){
+    .py-85{padding: 55px 0;}
+    /* common title */
+    .commonTitle h2{font-size: 30px; line-height: 36px;}
+    .commonTitle .separator{font-size: 16px; line-height: 24px; margin-bottom: 5px;}
+    .commonTitle .separator:before{ width: 30px}
+    .commonTitle p{margin: 15px 0;}
+    /* header media css */
+    .header .header-bottom .navbar{padding: 10px 0;}
+    .header .header-bottom .search a{font-size: 14px;}
+    .header .header-bottom .navbar .navbar-nav .nav-item{margin-right: 20px;}
+    .header .header-bottom .navbar .navbar-nav .nav-item .nav-link{font-size: 14px;}
+    .header .header-bottom .navbar-brand{width: 150px;}
+    .header .header-bottom .menu-btn{margin-right: 20px}
+
+    /* search modal css */
+    .search-modal .search-form .form-control, .search-modal .search-form .btn{height: 60px}
+    .search-modal .search-form .btn{width: 170px;}
+
+    /* home banner css */
+    .home-banner .slide-item{height: 500px; padding: 55px 0;}
+    .home-banner .content-box h1{font-size: 45px; line-height: 50px;}   
+    .home-banner .owl-nav .owl-prev{left:30px}
+    .home-banner .owl-nav .owl-next{right:30px}
+    .home-banner .owl-nav .owl-prev, .home-banner .owl-nav .owl-next{width: 50px;height: 50px; line-height: 50px;}
+
+    /* about-us section css */
+    .homePage .aboutUs .points .points-detail h5{font-size: 16px; line-height: 24px;}
+    .homePage .aboutUs .points .points-icon{font-size: 23px}
+    .homePage .aboutUs .points{margin-bottom: 15px;}
+    .homePage .aboutUs .query-card{padding: 25px;}
+    .homePage .aboutUs .query-card h3{font-size: 18px; line-height: 24px;}
+    .homePage .aboutUs .query-card a {font-size: 19px;}
+    .homePage .aboutUs .query-card i {left: 12px; top: 6px; font-size: 80px; line-height: 80px;}
+    .homePage .aboutUs .ourNetwork .list-icon {width: 90px; margin: 0 auto 20px;}
+    .homePage .aboutUs .ourNetwork .list-icon img{max-width: 100%;}
+    .homePage .aboutUs .ourNetwork{margin-top: 30px;}
+    .homePage .aboutUs .ourNetwork h3{font-size: 20px; line-height: 25px;}
+
+    /* tradeExperiance */
+    .tradeExperiance .trade-icon{
+        width: 60px;
+        height: 60px;
+    }
+    .tradeExperiance .trade-icon i{font-size: 25px;}
+    .tradeExperiance .trade-box h3 {
+        font-size: 20px;
+        line-height: 25px;
+        margin: 10px 0
+    }
+
+
+    /* service-section css */
+    .homePage .service .service-icon{min-width: 60px; max-width: 60px; height: 60px; font-size: 22px;}
+    .homePage .service .service-txt{ padding-left: 20px;}
+    .homePage .service .service-box{margin-bottom: 50px;}
+
+    /* plan-section */
+    .plan-section .plan-table{height: 510px;}
+    .plan-section .plan-header, .plan-section .plan-price, .plan-section .desc, .plan-section .plan-body{padding: 20px 15px;}
+    .plan-section .plan-header h3{font-size: 20px;line-height: 28px;}
+    .plan-section .plan-price h2{font-size: 34px; line-height: 40px;}
+
+    /* .counter-section css */
+    .counter-section .counter-box span{font-size: 40px; line-height: 50px;}
+    .client-testimonial .quote-body{padding: 30px; margin-bottom: 35px;}
+    .client-testimonial .quote-body i {font-size: 30px; line-height: 30px}
+
+    /* quote section css */
+    .quote-section .info-list li i{min-width: 45px; max-width: 45px; height: 45px;}
+    .quote-section .info-detail{margin-left: 15px;}
+    .quote-section .info-detail h4{font-size: 18px; line-height: 28px;}
+    
+    /* call to action css */
+    .callToaction {padding: 20px 0;}
+    .callToaction h3{font-size: 20px;}
+}
+
+@media(max-width:1199.98px){
+
+    .py-85{padding: 30px 0;}
+
+     /* common title */
+     .commonTitle{ margin-bottom: 25px;}
+     .commonTitle h2{font-size: 24px; line-height: 30px;}
+     .commonTitle p{margin: 10px 0;}
+     .commonTitle .separator{font-size: 14px; line-height: 22px;}
+     .commonTitle .separator:before{ width: 20px}
+
+    /* home banner css */
+    .home-banner .slide-item{height: 380px; padding: 30px 0;}
+    .home-banner .content-box h1{font-size: 30px; line-height: 35px;}   
+    .home-banner .content-box p{font-size: 16px; line-height: 24px; margin-bottom: 25px;}
+    .home-banner .owl-nav{bottom: 50px; top: auto;}
+    .home-banner .owl-nav .owl-prev, .home-banner .owl-nav .owl-next{width: 40px; height: 40px; line-height: 40px; margin-top: -90px;}
+    .home-banner .owl-nav .owl-prev{left: auto; right: 85px;}
+
+     /* about-us section css */
+    .homePage .aboutUs .query-card{left: 0; bottom: 30px;}
+    .homePage .aboutUs .ourNetwork .list-icon{ width: 75px; margin: 0 auto 15px;}
+    .homePage .aboutUs .ourNetwork h3{font-size: 17px; line-height: 22px;}
+    .homePage .aboutUs .left-box{ padding-right: 25px;}
+
+    /*pay-more  */
+    .pay-more .circle .items:not(:last-child) {
+        margin-right: 20px
+    }
+    .pay-more .circle .items {
+        width: 115px;
+    }
+
+    /* service-section css */
+    .homePage .service .service-right{margin-top: 30px;}
+    .homePage .service .commonTitle:before{top: 30px;}
+
+    /*client-testimonial */
+    .client-testimonial .quote-body i{font-size: 24px; bottom: 10px;}
+
+    /* plan-section */
+    .plan-section .planbox {
+        padding: 20px;
+        height: calc(100% - 20px);
+        margin-bottom: 20px;
+    }
+    .plan-section .row {
+        margin: 0 -7px;
+    }  
+    .plan-section .row [class*="col-"] {
+        padding: 0 7px;
+    }
+    .plan-section .plan-price h2{font-size: 24px; line-height: 30px;}
+    .plan-section .plan-header h3{font-size: 18px; line-height: 24px;}
+    .plan-section .commonTitle p{margin: 25px 0;}
+    .plan-section .planswitch{margin-bottom: 15px;}
+
+    /* .counter-section */
+    .counter-section{padding: 20px 0;}
+    .client-testimonial .quote-body{margin-bottom: 25px;}
+    .counter-section .counter-box span{font-size: 30px; line-height: 40px;}
+    .client-testimonial .quote-body:before{width: 19px; height: 19px; left: 48px; bottom: -9px;}
+
+    /* .callToaction */
+    .callToaction{padding: 15px 0;}
+    .callToaction h3{font-size: 18px;}
+    .callToaction .btn{font-size: 14px; padding: 4px 18px;}
+}
+
+@media(max-width:991.98px){
+    .header .header-bottom .navbar-brand{width: 135px;}
+    .header .header-bottom .navbar .navbar-nav .nav-item{margin-right: 10px;}
+    .header .header-bottom .menu-btn{margin-right: 10px}
+
+    /*commonTitle  */
+    .commonTitle h2{font-size: 20px; line-height: 27px;}
+
+    /* about-us section css */
+    .homePage .aboutUs .left-box{ padding-right: 0;}
+    .homePage .aboutUs .query-card{bottom: 15px; padding: 20px;}
+    .homePage .aboutUs .query-card h3{font-size: 17px;}
+    .homePage .aboutUs .query-card h4, .homePage .aboutUs .query-card a{font-size: 16px;}
+
+    .home-banner .owl-nav .owl-prev:after, .home-banner .owl-nav .owl-next:after{font-size: 20px;}
+
+     /* plan-section */
+    .plan-section .commonTitle p{ margin: 15px 0;}
+    .plan-section .plan-table{height: 480px;}
+    .plan-section .plan-body ul{ margin-bottom: 20px;}
+
+    /* service-section css */
+    .homePage .service .service-right{ padding-left: 15px; padding-right: 0; }
+    .homePage .service .commonTitle:before{right: 0;}
+    .homePage .service .inner{margin-top: 30px;}
+    .homePage .service .service-box{margin-bottom: 25px;}
+    .homePage .service .service-box h4{font-size: 17px;line-height: 24px;margin-bottom: 15px;}
+    .homePage .service .service-icon{min-width: 50px;max-width: 50px;height: 50px;font-size: 18px;}
+
+    /* tradeExperiance */
+      .tradeExperiance .trade-icon{
+        width: 55px;
+        height: 50px;
+    }
+    .tradeExperiance .trade-icon i{font-size: 22px;}
+    .tradeExperiance .list{
+        padding: 20px;
+    }
+    .tradeExperiance .trade-box h3 {
+        font-size: 18px;
+    }
+     /*pay-more  */
+     .pay-more .circle .items:not(:last-child) {
+        margin-right: 15px;
+    }
+    .pay-more .circle .items {
+        width: 100px;
+    }
+    .pay-more .points{padding: 15px;}
+    .pay-more .points .points-detail{margin-left: 15px;}
+    .pay-more .points .points-detail h3{
+    font-size: 27px;
+    }
+    .pay-more .points .points-detail h5 {font-size: 14px;}
+    .pay-more .points .points-icon{
+    font-size: 20px;
+    }
+
+    /* quote-section  */
+
+    .quote-section .address-box{padding-right: 15px;}
+    .quote-section .form-box .form-control{height: 45px;}
+    .quote-section .form-box textarea.form-control{height: 90px;}
+    .quote-section .info-list li i{min-width: 35px;max-width: 35px;height: 35px;font-size: 16px;}
+    .quote-section .info-detail h4{font-size: 16px;line-height: 24px;}
+    .footer .footer-title h3{font-size: 18px;line-height: 24px;padding-right: 40px;}
+    .footer .footer-title h3:before{width: 30px;}
+    .footer .footer-logo img{width: 160px;}
+    .footer p{margin: 15px 0;}
+    .footer .footer-title{margin: 10px 0 20px;}
+    .footer .social-links{margin-bottom: 15px;}
+       
+}
+
+@media(max-width:767.98px){
+  
+  /** button **/
+
+ .ripple-effect{
+    font-size: 14px;
+    padding: 4px 15px;
+  }
+
+    /* common title */
+    .commonTitle{ margin-bottom: 15px;}
+
+    .header .header-bottom .navbar .navbar-collapse.collapse{background-color: var(--secondary-color); margin-top: 7px;padding: 5px;}
+    .header .header-bottom .navbar .navbar-nav{flex-direction: column; align-items: flex-start !important;}
+    .header .header-bottom .navbar .navbar-nav .nav-item:not(:last-child){ margin-right: 0; margin-bottom: 5px;}
+    .header .header-bottom .navbar .navbar-nav .nav-item .nav-link{color: var(--white-color);}
+
+    /* home banner css */
+    .home-banner .slide-item{height: 350px;}
+    .home-banner .content-box h1{font-size: 24px; line-height: 30px;}
+    .home-banner .content-box p{font-size: 15px; margin-bottom: 16px;}
+
+    /* aboutUs */
+    .homePage .aboutUs{background-image: none;}
+    .homePage .aboutUs .right-box .imgThumb img{width: 100%;}
+    .homePage .aboutUs .ourNetwork .list:nth-child(even):before{display: none;}
+    .homePage .aboutUs .ourNetwork .list.border-sm-bottom{border-bottom:1px solid var(--light-grey-color);}
+    .homePage .aboutUs .ourNetwork .list-icon{width: 50px; margin: 0 auto 8px;}
+
+    /* service-section */
+    .homePage .service .commonTitle:before{display: none;}
+    .homePage .service .service-right{margin-top: 0; padding-left: 0;}
+    .homePage .service .service-right p{margin-bottom: 0;}
+    .homePage .service .commonTitle{ margin-bottom: 0;}
+    .homePage .service .inner{margin-top: 20px;}
+    .homePage .service .service-txt{padding-left: 15px;}
+    /* .homePage .service .service-txt span{ border-bottom: 1px solid #222;} */
+       
+    /* plan */
+    .plan-section .plan-table{height: 400px;}
+    .plan-section .plan-body li{font-size: 14px;}
+    .plan-section .plan-body li:not(:last-child){margin-bottom: 2px;}
+    .plan-section .planswitch{max-width: 100%;overflow-x: auto;white-space: nowrap;}
+    .plan-section .planswitch .nav-item{float: none;}
+    .plan-section .planswitch .nav-item a{padding: 8px 20px;}
+    .plan-section .plan-header h3{font-size: 16px;}
+    .plan-section .plan-header, .plan-section .plan-price, .plan-section .desc, .plan-section .plan-body{padding: 20px 10px;}
+
+    /* search modal */
+    .search-modal .search-form .form-control, .search-modal .search-form .btn{height: 50px;}
+    .search-modal .search-form .btn{width: 140px;font-size: 14px;}
+    .search-modal .search-form .form-control{padding: 20px 15px;}
+    .search-modal .close-search{font-size: 18px;}
+
+    /* searchAgent */
+    .searchAgent .searchBox{padding: 20px; margin-top: -50px;}
+
+    /* tradeExperiance */
+    .tradeExperiance .trade{background: #deebf7;}
+    .tradeExperiance .list{
+        border-bottom: 1px solid #f0f5f9;
+        padding: 15px;
+    }
+    .tradeExperiance .list:before{
+        height: 100%;
+        background: #f0f5f9;
+    }
+    .tradeExperiance .trade-icon{
+        width: 50px;
+        height: 45px;
+    }
+    .tradeExperiance .trade-box h3 {
+        font-size: 17px;
+    }
+    .tradeExperiance .trade-box p{font-size: 14px; margin-bottom: 10px;}
+
+    .ringingTrad .ringingTrad_box{
+        margin-bottom: 90px;
+    }
+}
+
+@media(max-width:575.98px){
+
+    /** button **/
+    .ripple-effect{
+        font-size: 12px;
+    }
+    .py-85{padding: 20px 0;}
+    .header .header-bottom .navbar-brand{width: 105px;margin-right: 10px;}
+    .header .header-bottom .menu-btn{margin-right: 5px; padding: 4px 8px;}
+    .home-banner .owl-nav{display: none;}
+    .home-banner .content-box h1{font-size: 20px; line-height: 24px;margin-bottom: 8px;}
+    .search-modal .search-form .form-control, .search-modal .search-form .btn{height: 45px; font-size: 14px;}
+    .search-modal .search-form .btn{font-size: 12px;}
+    .header .header-bottom .menu-icon {
+       margin-left: 7px;
+    }
+
+     /* pay-more */
+    .pay-more .circle{ justify-content: center;}
+
+    /* searchAgent */
+    .searchAgent .searchBox{padding: 15px; margin-top: -37px;}
+    .searchAgent .searchBox .searchBox_form .form-control{
+        padding: 18px 15px;
+        height: 40px;
+        font-size: 14px;
+    }
+    .searchAgent .searchBox .searchBox_form .btn{height: 40px;}
+    
+}
+@media(max-width:480.98px){
+
+    /* tradeExperiance */ 
+    .tradeExperiance .row [class*="col-"] {
+       flex:0 0 100%;
+       max-width: 100%;
+    }
+    .tradeExperiance .list{
+        text-align: center;
+    }
+    .tradeExperiance .trade-icon{
+        margin: auto;
+    }
+}
