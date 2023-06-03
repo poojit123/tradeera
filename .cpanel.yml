@@ -4,4 +4,5 @@ deployment:
     - export DEPLOYPATH=/home/rsmmkvli51dh/public_html/
     - /bin/cp -R include $DEPLOYPATH
     - /bin/cp -R assets $DEPLOYPATH
+    - /bin/cp -R test $DEPLOYPATH
     - /bin/cp * $DEPLOYPATH
