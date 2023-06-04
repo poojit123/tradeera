@@ -1,0 +1,3 @@
+# ignore folder and files
+vendor
+.env

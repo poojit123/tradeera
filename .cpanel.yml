@@ -2,7 +2,9 @@
 deployment:
   tasks:
     - export DEPLOYPATH=/home/rsmmkvli51dh/public_html/
-    - /bin/cp -R include $DEPLOYPATH
+    - /bin/cp -R ajax $DEPLOYPATH
     - /bin/cp -R assets $DEPLOYPATH
-    - /bin/cp -R test $DEPLOYPATH
+    - /bin/cp -R config $DEPLOYPATH
+    - /bin/cp -R include $DEPLOYPATH
+    - /bin/cp -R logs $DEPLOYPATH
     - /bin/cp * $DEPLOYPATH

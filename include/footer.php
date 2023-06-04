@@ -96,7 +96,7 @@
              <p>No need to issue cheques by investors while subscribing to IPO. Just write the bank account number and
                  sign in the application form to authorise your bank to make payment in case of allotment. No worries of
                  refund as money remains in investor's account.</p>
-             <div class="copyright">© 2020 <a href="javascript:void(0)" class="link-hover">TradeEra</a>
+             <div class="copyright">© <?= date('Y'); ?> <a href="javascript:void(0)" class="link-hover">TradeEra</a>
                  - Business &amp; Consulting. All rights reserved.</div>
          </div>
      </div>

@@ -19,3 +19,4 @@ shrink-to-fit=no">
     integrity="sha384-lZN37f5QGtY3VHgisS14W3ExzMWZxybE1SJSEsQp9S+oqd12jhcu+A56Ebc1zFSJ" crossorigin="anonymous">
 <link rel="stylesheet" href="<?php echo BASE_URL ?>/assets/css/style.css" type="text/css">
 <link rel="stylesheet" href="<?php echo BASE_URL ?>/assets/css/responsive.css" type="text/css">
+<link rel="stylesheet" href="<?php echo BASE_URL ?>/assets/css/toast.css" type="text/css">

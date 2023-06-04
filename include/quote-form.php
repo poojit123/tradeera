@@ -49,7 +49,7 @@
          </div>
          <div class="col-md-6">
             <div class="form-box">
-               <form>
+               <form method="post" action="ajax/contact.php" id="contact-form">
                   <div class="form-group">
                      <input type="text" class="form-control" name="name" placeholder="Your Name" required="">
                   </div>
@@ -65,7 +65,7 @@
                   <div class="form-group message-btn">
                      <button type="submit" class="btn
                         btn-outline-primary ripple-effect
-                        text-uppercase">Request estimate</button>
+                        text-uppercase" id="contact-btn">Request estimate</button>
                   </div>
                </form>
             </div>
