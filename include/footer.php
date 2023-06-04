@@ -13,7 +13,7 @@
                              Andy Street, Madison, NJ 08003</li>
                          <li><i class="fas fa-envelope"></i>Email
                              -&nbsp; <a href="mailto:demo@gmail.com" class="link-hover">
-                                 support@my-domain.com</a></li>
+                             support@tradeera.in</a></li>
                          <li><i class="fas fa-headphones"></i>Support
                              -&nbsp;<a href="tel:01005200369" class="link-hover"> 0100 5200 369</a></li>
                      </ul>

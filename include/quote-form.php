@@ -39,8 +39,8 @@
                      <i class="fas fa-envelope-open"></i>
                      <div class="info-detail">
                         <h4>Email Support</h4>
-                        <p><a href="mailto:demo@.com" class="link-hover">info@my-domain.com
-                           </a> / <a href="mailto:demo@info.com" class="link-hover">support@info.com</a>
+                        <p><a href="mailto:support@tradeera.in" class="link-hover">support@tradeera.in
+                           </a>
                         </p>
                      </div>
                   </li>
