@@ -15,7 +15,7 @@
                              -&nbsp; <a href="mailto:demo@gmail.com" class="link-hover">
                              support@tradeera.in</a></li>
                          <li><i class="fas fa-headphones"></i>Support
-                             -&nbsp;<a href="tel:01005200369" class="link-hover"> 0100 5200 369</a></li>
+                             -&nbsp;<a href="tel:07314676408" class="link-hover"> 0731 4676408</a></li>
                      </ul>
                      <ul class="social-links">
                          <li><a href="javascript:void(0)"><i class="fab fa-twitter"></i></a></li>
@@ -105,12 +105,32 @@
  <div id="search-modal" class="search-modal">
      <div class="close-search"><span>Close</span></div>
      <div class="search-form">
-         <form>
-             <div class="input-group">
-                 <input type="text" class="form-control" placeholder="What do you want to search">
+         <form method="post" action="ajax/contact.php" id="contact-form">
+                <div class="contact-form-heading">
+                    <h3>You can contact with us, Please fill this enquiry form.</h3>
+                </div>
+                <div class="contact-form-inpt">
+                    <input type="text" name="name" class="form-control" placeholder="Enter Your Name" required="">
+                </div>
+                <div class="contact-form-inpt">
+                    <input type="text" name="phone" class="form-control" placeholder="Enter Your Mobile no." required="">
+                </div>
+                <div class="contact-form-inpt">
+                    <input type="text" name="email" class="form-control" placeholder="Enter Your Email">
+                </div>
+                <div class="contact-form-inpt">
+                    <select name="product" class="form-control">
+                        <option value="">Select Product</option>
+                        <option value="Demat Account">Demat Account</option>
+                        <option value="ALGO Trading">ALGO Trading</option>
+                        <option value="SIP/Mutual Fund">SIP/Mutual Fund</option>
+                        <option value="Pre IPO">Pre IPO</option>
+                        <option value="Insurance">Insurance</option>
+                     </select>
+                </div>
                  <div class="input-group-append">
-                     <button class="btn btn-primary ripple-effect" type="button">
-                         Search Now!
+                     <button class="btn btn-primary ripple-effect" type="submit">
+                         Submit
                      </button>
                  </div>
              </div>

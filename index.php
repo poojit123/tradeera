@@ -14,82 +14,29 @@
             <div class="banner-carousel owl-theme owl-carousel
                     position-relative">
                 <div class="slide-item">
-                    <div class="img-box" style="background-image:url(assets/images/banner-4.jpg)"></div>
+                    <div class="img-box" style="background-image:url(assets/images/banner-1.jpg)"></div>
                     <div class="container">
                         <div class="content-box">
-                            <div class="commonTitle mb-0">
-                                <h5 class="separator d-flex
-                                        align-items-center text-white white">towards
-                                    a bright future</h5>
-                            </div>
-                            <h1>Perfect Insurance <br class="d-none d-xl-block" />When it Matters</h1>
-                            <p>Beniam quis nostrud exercitation sed lamco
-                                laboris nis aliquip <br />repraderit luptate
-                                velit excepteur ocaan ipsum.</p>
-                            <div class="btn-box">
-                                <a href="javascript:void(0)" class="btn
-                                        btn-primary ripple-effect
-                                        text-uppercase"><i class="fas fa-atom"></i>How
-                                    We Help</a>
-                                <a href="javascript:void(0)" class="btn
-                                        btn-outline-light ripple-effect
-                                        text-uppercase"><i class="far fa-user"></i>Find an
-                                    Agent</a>
-                            </div>
+                            <h1>Trust and Security</h1>
+                            <p> At Good Will Demat, we prioritize the security of your investments. Our platform adheres to the highest security standards and utilizes cutting-edge encryption technology to safeguard your data and transactions. You can trust us with your valuable securities.</p>
                         </div>
                     </div>
                 </div>
                 <div class="slide-item">
-                    <div class="img-box" style="background-image:url(assets/images/banner-5.jpg)"></div>
+                    <div class="img-box" style="background-image:url(assets/images/banner-2.jpg)"></div>
                     <div class="container">
                         <div class="content-box">
-                            <div class="commonTitle mb-0">
-                                <h5 class="separator d-flex
-                                        align-items-center text-white white">towards
-                                    a bright future</h5>
-                            </div>
-                            <h1>Perfect Insurance
-                                <br<br class="d-none d-xl-block" />When it Matters
-                            </h1>
-                            <p>Beniam quis nostrud exercitation sed lamco
-                                laboris nis aliquip <br />repraderit luptate
-                                velit excepteur ocaan ipsum.</p>
-                            <div class="btn-box">
-                                <a href="javascript:void(0)" class="btn
-                                        btn-primary ripple-effect
-                                        text-uppercase"><i class="fas fa-atom"></i>How
-                                    We Help</a>
-                                <a href="javascript:void(0)" class="btn
-                                        btn-outline-light ripple-effect
-                                        text-uppercase"><i class="far fa-user"></i>Find an
-                                    Agent</a>
-                            </div>
+                            <h1>Wide Range of Investment Options</h1>
+                            <p> We offer a comprehensive range of investment options to cater to the diverse needs of our clients. From equities and derivatives to mutual funds and IPOs, our platform provides you with a plethora of investment opportunities to choose from.</p>
                         </div>
                     </div>
                 </div>
                 <div class="slide-item">
-                    <div class="img-box" style="background-image:url(assets/images/banner-6.jpg)"></div>
+                    <div class="img-box" style="background-image:url(assets/images/banner-3.jpg)"></div>
                     <div class="container">
                         <div class="content-box">
-                            <div class="commonTitle mb-0">
-                                <h5 class="separator d-flex
-                                        align-items-center text-white white">towards
-                                    a bright future</h5>
-                            </div>
-                            <h1>Perfect Insurance <br class="d-none d-xl-block" />When it Matters</h1>
-                            <p>Beniam quis nostrud exercitation sed lamco
-                                laboris nis aliquip <br />repraderit luptate
-                                velit excepteur ocaan ipsum.</p>
-                            <div class="btn-box">
-                                <a href="javascript:void(0)" class="btn
-                                        btn-primary ripple-effect
-                                        text-uppercase"><i class="fas fa-atom"></i>How
-                                    We Help</a>
-                                <a href="javascript:void(0)" class="btn
-                                        btn-outline-light ripple-effect
-                                        text-uppercase"><i class="far fa-user"></i>Find an
-                                    Agent</a>
-                            </div>
+                            <h1>Dedicated Customer Support</h1>
+                            <p>We value our customers and their satisfaction is our top priority. Our dedicated customer support team is available to assist you with any queries or concerns you may have. Count on us for prompt and reliable assistance whenever you need it.</p>
                         </div>
                     </div>
                 </div>
@@ -102,16 +49,8 @@
                 <div class="searchBox common-shadow bg-white">
                     <div class="commonTitle centered">
                         <div class="searchBox_form">
-                            <form>
-                                <div class="input-group">
-                                    <input type="text" class="form-control" placeholder="Enter Your Mobile Number">
-                                    <div class="input-group-append">
-                                        <button class="btn btn-primary ripple-effect" type="button">
-                                            Get A Call
-                                        </button>
-                                    </div>
-                                </div>
-                            </form>
+                            <p>At Good Will Demat, we believe in empowering individuals to take control of their financial future by providing a secure and convenient platform for dematerialized securities. Whether you are a seasoned investor or just starting your investment journey, we are here to support you every step of the way.</p>
+                            <a href="javascript:void(0)" class="btn btn-primary ripple-effect text-uppercase searchBoxs"><i class="fa fa-info-circle"></i>For Enquiry</a>
                         </div>
                     </div>
                 </div>
@@ -119,136 +58,108 @@
         </section>
         <!-- searchAgent close -->
 
-        <section class="aboutUs py-85">
+        <section class="service py-85 pb-0">
             <div class="container">
                 <div class="row">
-                    <div class="col-md-6 col-lg-7">
-                        <div class="left-box">
-                            <div class="commonTitle">
-                                <h5 class="separator d-flex
-                                        align-items-center">Why Us</h5>
-                                <h2>We are full time broker</h2>
-
-                                <p>Trade Era is an online platform working as franchise of goodwill wealth menagement ,
-                                    IIFL , UPSTOX ,freedom for client to chose best , it brings a unique combination of
-                                    a start-up culture supported by 3 decades of trustworthy broking record. We
-                                    understand the importance of technology and customer experience in stock broking
-                                    field and focus on learning and money making. , it helps to grow trade era with
-                                    custmers,
-
-                                    Open free demat with as , free account maintenance
-                                    Get best learning video , tips , expert support to learn best things in market
-
-                                    We help client to -
-                                    We arrange best portfuliyo accourding to client income and future dreams , it helps
-                                    him to live free from financial problems .
-
-                                    Invest in IPO , PRE IPO , mutual fund , sip , stocks , future , option , mcx , ncdex
-                                    .
-
-                                    Open your paperless online account in just 15 minutes; become a partner and earn
-                                    from the markets even without trading; daily trading calls and lots more.
-                                    ENERGY SECTOR</p>
-                            </div>
-                            <!-- <div class="row">
-                                <div class="col-sm-6">
-                                    <div class="points d-flex">
-                                        <div class="points-icon"><i class="fa fa-university" aria-hidden="true"></i>
-                                        </div>
-                                        <div class="points-detail">
-                                            <h5>Higher Education</h5>
-                                            <p>Conseqrue dolorn repreh deris
-                                                velit excepteur duis aute.</p>
-                                        </div>
-
-                                    </div>
-                                </div>
-                                <div class="col-sm-6">
-                                    <div class="points d-flex">
-                                        <div class="points-icon"><i class="fa fa-cogs" aria-hidden="true"></i></div>
-                                        <div class="points-detail">
-                                            <h5>Setting</h5>
-                                            <p>Conseqrue dolorn repreh deris
-                                                velit excepteur duis aute.</p>
-                                        </div>
-
-                                    </div>
-                                </div>
-                                <div class="col-sm-6">
-                                    <div class="points d-flex">
-                                        <div class="points-icon"><i class="fa fa-university" aria-hidden="true"></i>
-                                        </div>
-                                        <div class="points-detail">
-                                            <h5>Higher Education</h5>
-                                            <p>Conseqrue dolorn repreh deris
-                                                velit excepteur duis aute.</p>
-                                        </div>
-
-                                    </div>
-                                </div>
-                                <div class="col-sm-6">
-                                    <div class="points d-flex">
-                                        <div class="points-icon"><i class="fa fa-cogs" aria-hidden="true"></i></div>
-                                        <div class="points-detail">
-                                            <h5>Setting</h5>
-                                            <p>Conseqrue dolorn repreh deris
-                                                velit excepteur duis aute.</p>
-                                        </div>
-
-                                    </div>
-                                </div>
-                            </div> -->
-                        </div>
-                    </div>
-                    <div class="col-md-6 col-lg-5">
-                        <div class="right-box position-relative">
-                            <div class="imgThumb position-relative
-                                    overflow-hidden">
-                                <img src="<?php echo IMAGES_URL ?>/about-img.jpg" alt="about-us">
-                            </div>
-                            <div class="query-card">
-                                <i class="fas fa-headphones-alt"></i>
-                                <h3>Save Money, Save Life!</h3>
-                                <h4>Any questions? Call <a href="tel:01005200369">0100 5200 369</a></h4>
-                            </div>
+                    <div class="col-md-12">
+                        <div class="commonTitle centered">
+                            <h5 class="separator d-flex align-items-center">What We Provides</h5>
+                            <h2>Our Product's</h2>
                         </div>
                     </div>
                 </div>
-
-                <div class="ourNetwork">
-                    <div class="row no-gutters">
-                        <div class="col-6 col-md-3 list position-relative text-center border-sm-bottom">
-                            <div class="">
-                                <div class="list-icon">
-                                    <img src="<?php echo IMAGES_URL ?>/icons/icon-1.png" alt="">
+                <div class="inner">
+                    <div class="row">
+                        <div class="col-sm-6 col-lg-4">
+                            <div class="service-box">
+                                <h4 class="p-title">Demat Account</h4>
+                                <div class="service-list d-flex">
+                                    <div class="service-icon">
+                                        <i class="fa fa-address-book" aria-hidden="true"></i>
+                                    </div>
+                                    <div class="service-txt">
+                                        <p class="p-description">Execute trading investments through futures trading, options trading, stocks, IPOs, mutual funds, commodities etc. seamlessly in one place and achieve your financial goals.</p>
+                                        <a href="javascript:void(0)" class="showProduct"><i class="fas fa-arrow-right"></i><span>Read More</span></a>
+                                    </div>
                                 </div>
-                                <h3>540+ Policies Completed</h3>
                             </div>
                         </div>
-                        <div class="col-6 col-md-3 list position-relative text-center border-sm-bottom">
-                            <div class="">
-                                <div class="list-icon">
-                                    <img src="<?php echo IMAGES_URL ?>/icons/icon-2.png" alt="">
+                        <div class="col-sm-6 col-lg-4">
+                            <div class="service-box">
+                                <h4 class="p-title">ALGO Trading</h4>
+                                <div class="service-list d-flex">
+                                    <div class="service-icon">
+                                        <i class="fa fa-chart-bar" aria-hidden="true"></i>
+                                    </div>
+                                    <div class="service-txt">
+                                        <p class="p-description">Algorithmic trading, commonly known as algo trading or automated trading, refers to the use of computer algorithms to execute trading strategies in financial markets. It involves the automation of trading decisions, order placement, and execution, relying on pre-defined rules and mathematical models.</p>
+                                        <a href="javascript:void(0)" class="showProduct"><i class="fas fa-arrow-right"></i><span>Read More</span></a>
+                                    </div>
                                 </div>
-                                <h3>630+ Trusted Customers</h3>
                             </div>
                         </div>
-                        <div class="col-6 col-md-3 list position-relative text-center">
-                            <div class="">
-                                <div class="list-icon">
-                                    <img src="<?php echo IMAGES_URL ?>/icons/icon-3.png" alt="">
+                        <div class="col-sm-6 col-lg-4">
+                            <div class="service-box">
+                                <h4 class="p-title">SIP/Mutual Fund</h4>
+                                <div class="service-list d-flex">
+                                    <div class="service-icon">
+                                        <i class="fa fa-money-bill" aria-hidden="true"></i>
+                                    </div>
+                                    <div class="service-txt">
+                                        <p class="p-description">Systematic Investment Plan (SIP) is an investment route offered by Mutual Funds wherein one can invest a fixed amount in a Mutual Fund scheme at regular intervals– say once a month or once a quarter, instead of making a lump-sum investment.</p>
+                                        <a href="javascript:void(0)" class="showProduct"><i class="fas fa-arrow-right"></i><span>Read More</span></a>
+                                    </div>
                                 </div>
-                                <h3>125+ Opened Locations</h3>
                             </div>
                         </div>
-                        <div class="col-6 col-md-3 list position-relative text-center">
-                            <div class="">
-                                <div class="list-icon">
-                                    <img src="<?php echo IMAGES_URL ?>/icons/icon-4.png" alt="">
+                        <div class="col-sm-6 col-lg-4">
+                            <div class="service-box">
+                                <h4 class="p-title">Pre IPO</h4>
+                                <div class="service-list d-flex">
+                                    <div class="service-icon">
+                                        <i class="fa fa-newspaper" aria-hidden="true"></i>
+                                    </div>
+                                    <div class="service-txt">
+                                        <p class="p-description">Pre-IPO, also known as pre-initial public offering, refers to the period before a company goes public and offers its shares for sale to the general public through an initial public offering (IPO). During the pre-IPO phase, the company is still privately held and its shares are not available for trading on a public stock exchange.</p>
+                                        <a href="javascript:void(0)" class="showProduct"><i class="fas fa-arrow-right"></i><span>Read More</span></a>
+                                    </div>
                                 </div>
-                                <h3>100% Client Satisfaction</h3>
                             </div>
                         </div>
+                        <div class="col-sm-6 col-lg-4">
+                            <div class="service-box">
+                                <h4 class="p-title">Insurance</h4>
+                                <div class="service-list d-flex">
+                                    <div class="service-icon">
+                                        <i class="fa fa-folder-plus" aria-hidden="true"></i>
+                                    </div>
+                                    <div class="service-txt">
+                                        <p class="p-description">Insurance is a risk management tool that provides financial protection against potential losses or uncertainties. It involves transferring the risk of loss from an individual or entity to an insurance company in exchange for a premium payment. Insurance policies are contracts that outline the terms and conditions of coverage.</p>
+                                        <a href="javascript:void(0)" class="showProduct"><i class="fas fa-arrow-right"></i><span>Read More</span></a>
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+                        <!-- <div class="col-sm-6 col-lg-4">
+                            <div class="service-box">
+                                <h4>Planning Strategies</h4>
+                                <div class="service-list d-flex">
+                                    <div class="service-icon">
+                                        <i class="fa fa-map" aria-hidden="true"></i>
+                                    </div>
+                                    <div class="service-txt">
+                                        <p>Acepteur sintas haecat sed non
+                                            dui
+                                            proident sunt culpa sed ipsum
+                                            Acepteur sintas haecat sed non
+                                            dui
+                                            proident sunt culpa sed</p>
+                                        <a href="javascript:void(0)"><i class="fas fa-arrow-right"></i><span>Read
+                                                More</span></a>
+                                    </div>
+                                </div>
+                            </div>
+                        </div> -->
                     </div>
                 </div>
             </div>
@@ -374,154 +285,6 @@
             </div>
         </section> -->
         <!-- service section -->
-        <!-- <section class="service py-85 pb-0">
-            <div class="container">
-                <div class="row">
-                    <div class="col-md-6">
-                        <div class="commonTitle text-md-right">
-                            <h5 class="separator d-flex align-items-center
-                                    justify-content-md-end">What We Provides</h5>
-                            <h2>Get Exceptional <br class="d-none
-                                        d-lg-block"> Service For Growth</h2>
-                        </div>
-                    </div>
-                    <div class="col-md-6">
-                        <div class="service-right">
-                            <p>Tempor incididunt ut labore et dolore magna
-                                aliquat enim veniam quis nostrud
-                                exercitation
-                                ullamco laboris nis aliquip consequat duis
-                                aute
-                                irure dolor voluptate.</p>
-                        </div>
-                    </div>
-                </div>
-                <div class="inner">
-                    <div class="row">
-                        <div class="col-sm-6 col-lg-4">
-                            <div class="service-box">
-                                <h4>Planning Strategies</h4>
-                                <div class="service-list d-flex">
-                                    <div class="service-icon">
-                                        <i class="fa fa-map" aria-hidden="true"></i>
-                                    </div>
-                                    <div class="service-txt">
-                                        <p>Acepteur sintas haecat sed non
-                                            dui
-                                            proident sunt culpa sed ipsum
-                                            Acepteur sintas haecat sed non
-                                            dui
-                                            proident sunt culpa sed</p>
-                                        <a href="javascript:void(0)"><i class="fas fa-arrow-right"></i><span>Read
-                                                More</span></a>
-                                    </div>
-                                </div>
-                            </div>
-                        </div>
-                        <div class="col-sm-6 col-lg-4">
-                            <div class="service-box">
-                                <h4>Planning Strategies</h4>
-                                <div class="service-list d-flex">
-                                    <div class="service-icon">
-                                        <i class="fa fa-map" aria-hidden="true"></i>
-                                    </div>
-                                    <div class="service-txt">
-                                        <p>Acepteur sintas haecat sed non
-                                            dui
-                                            proident sunt culpa sed ipsum
-                                            Acepteur sintas haecat sed non
-                                            dui
-                                            proident sunt culpa sed</p>
-                                        <a href="javascript:void(0)"><i class="fas fa-arrow-right"></i><span>Read
-                                                More</span></a>
-                                    </div>
-                                </div>
-                            </div>
-                        </div>
-                        <div class="col-sm-6 col-lg-4">
-                            <div class="service-box">
-                                <h4>Planning Strategies</h4>
-                                <div class="service-list d-flex">
-                                    <div class="service-icon">
-                                        <i class="fa fa-map" aria-hidden="true"></i>
-                                    </div>
-                                    <div class="service-txt">
-                                        <p>Acepteur sintas haecat sed non
-                                            dui
-                                            proident sunt culpa sed ipsum
-                                            Acepteur sintas haecat sed non
-                                            dui
-                                            proident sunt culpa sed</p>
-                                        <a href="javascript:void(0)"><i class="fas fa-arrow-right"></i><span>Read
-                                                More</span></a>
-                                    </div>
-                                </div>
-                            </div>
-                        </div>
-                        <div class="col-sm-6 col-lg-4">
-                            <div class="service-box">
-                                <h4>Planning Strategies</h4>
-                                <div class="service-list d-flex">
-                                    <div class="service-icon">
-                                        <i class="fa fa-map" aria-hidden="true"></i>
-                                    </div>
-                                    <div class="service-txt">
-                                        <p>Acepteur sintas haecat sed non
-                                            dui
-                                            proident sunt culpa sed ipsum
-                                            Acepteur sintas haecat sed non
-                                            dui
-                                            proident sunt culpa sed</p>
-                                        <a href="javascript:void(0)"><i class="fas fa-arrow-right"></i><span>Read
-                                                More</span></a>
-                                    </div>
-                                </div>
-                            </div>
-                        </div>
-                        <div class="col-sm-6 col-lg-4">
-                            <div class="service-box">
-                                <h4>Planning Strategies</h4>
-                                <div class="service-list d-flex">
-                                    <div class="service-icon">
-                                        <i class="fa fa-map" aria-hidden="true"></i>
-                                    </div>
-                                    <div class="service-txt">
-                                        <p>Acepteur sintas haecat sed non
-                                            dui
-                                            proident sunt culpa sed ipsum
-                                            Acepteur sintas haecat sed non
-                                            dui
-                                            proident sunt culpa sed</p>
-                                        <a href="javascript:void(0)"><i class="fas fa-arrow-right"></i><span>Read
-                                                More</span></a>
-                                    </div>
-                                </div>
-                            </div>
-                        </div>
-                        <div class="col-sm-6 col-lg-4">
-                            <div class="service-box">
-                                <h4>Planning Strategies</h4>
-                                <div class="service-list d-flex">
-                                    <div class="service-icon">
-                                        <i class="fa fa-map" aria-hidden="true"></i>
-                                    </div>
-                                    <div class="service-txt">
-                                        <p>Acepteur sintas haecat sed non
-                                            dui
-                                            proident sunt culpa sed ipsum
-                                            Acepteur sintas haecat sed non
-                                            dui
-                                            proident sunt culpa sed</p>
-                                        <a href="javascript:void(0)"><i class="fas fa-arrow-right"></i><span>Read
-                                                More</span></a>
-                                    </div>
-                                </div>
-                            </div>
-                        </div>
-                    </div>
-                </div>
-            </div>
-        </section> -->
 
         <section class="pay-more py-85">
             <div class="container">
@@ -1274,7 +1037,53 @@
         <?php include 'include/quote-form.php';?>
         <?php include 'include/call-toaction.php';?>
         <?php include 'include/footer.php';?>
+        
+        <div class="whatsapp-icon row">
+            <a href="https://wa.link/s0j8ca" target="_blank" rel="noopener noreferrer">
+                <img src="<?php echo IMAGES_URL ?>/whatsapp-icon.png" alt="WhatsApp" class="img-responsive" />
+            </a>
+        </div>
+        <div class="telegram-icon row">
+            <a href="https://t.me/trading_equations" target="_blank" rel="noopener noreferrer">
+                <img src="<?php echo IMAGES_URL ?>/telegram-icon.png" alt="Telegram" class="img-responsive" />
+            </a>
+        </div>
     </main>
+
+    <!-- Modal -->
+    <div class="modal fade" id="productModal" tabindex="-1" role="dialog" aria-labelledby="productModalLabel" aria-hidden="true">
+        <div class="modal-dialog" role="document">
+            <form method="post" action="ajax/contact.php" id="contact-form">
+                <div class="modal-content">
+                    <div class="modal-header">
+                        <h5 class="modal-title" id="productModalLabel">Loading...</h5>
+                        <button type="button" class="close" data-dismiss="modal" aria-label="Close">
+                            <span aria-hidden="true">&times;</span>
+                        </button>
+                    </div>
+                    <div class="modal-body">
+                        <p id="modal-description">Loading...</p>
+                        <div class="contact-form-heading">
+                            <h6 class="theme-txt-color">For more enquiry fill this form.</h6>
+                        </div>
+                        <div class="contact-form-inpt">
+                            <input type="text" name="name" class="form-control" placeholder="Enter Your Name" required="">
+                        </div>
+                        <div class="contact-form-inpt">
+                            <input type="text" name="phone" class="form-control" placeholder="Enter Your Mobile no." required="">
+                        </div>
+                        <div class="contact-form-inpt">
+                            <input type="text" name="email" class="form-control" placeholder="Enter Your Email">
+                        </div>
+                        <input type="hidden" name="product" id="form-product">
+                    </div>
+                    <div class="modal-footer">
+                        <button type="submit" class="btn btn-primary">Submit</button>
+                    </div>
+                </div>
+            </form>
+        </div>
+    </div>
 
     <?php include 'include/script.php';?>
 </body>

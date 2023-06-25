@@ -21,3 +21,13 @@ $(document).on('submit','#contact-form',function(event){
         console.log(data);
     });
 });
+
+$(document).on('click','.showProduct',function(){
+    let $this = $(this);
+    let description = $this.parent().find('.p-description').text();
+    let title = $this.parent().parent().parent().find('.p-title').text();
+    $('#productModal #productModalLabel').text(title);
+    $('#productModal #modal-description').text(description);
+    $('#productModal #form-product').val(title);
+    $('#productModal').modal('show');
+});

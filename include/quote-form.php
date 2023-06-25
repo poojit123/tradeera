@@ -29,9 +29,7 @@
                      <i class="fas fa-phone-volume"></i>
                      <div class="info-detail">
                         <h4>Request a Callback</h4>
-                        <p><a href="tel:01005200369" class="link-hover">0 (100)
-                           5200 369</a> / <a href="tel:01005200123" class="link-hover">0 (100)
-                           5200 123</a>
+                        <p><a href="tel:7415272814" class="link-hover"> 74152 72814</a> / <a href="tel:07314676408" class="link-hover">0731 4676408</a>
                         </p>
                      </div>
                   </li>
@@ -65,7 +63,7 @@
                   <div class="form-group message-btn">
                      <button type="submit" class="btn
                         btn-outline-primary ripple-effect
-                        text-uppercase" id="contact-btn">Request estimate</button>
+                        text-uppercase" id="contact-btn">Submit</button>
                   </div>
                </form>
             </div>

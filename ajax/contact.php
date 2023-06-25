@@ -3,9 +3,10 @@ require_once('./mail.php');
 
 if(isset($_POST['email'])){
     $name = $_POST['name'];
-    $email = $_POST['email'];
     $phone = $_POST['phone'];
-    $message = $_POST['message'];
+    $email = $_POST['email'] ?? "NA";
+    $message = $_POST['message'] ?? "NA";
+    $product = $_POST['product'] ?? "NA";
 
     $body = '<html>
     <table>
@@ -21,6 +22,9 @@ if(isset($_POST['email'])){
             </tr>
             <tr>
                 <td><b>Message:</b> '.$message.'</td>
+            </tr>
+            <tr>
+                <td><b>Product:</b> '.$product.'</td>
             </tr>
         </tbody>
     </table>

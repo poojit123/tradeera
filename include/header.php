@@ -58,16 +58,12 @@
      <div class="header-bottom">
          <div class="container">
              <nav class="navbar navbar-expand-md">
-                 <a class="navbar-brand" href="<?php echo BASE_URL ?>/index.php">
+                 <a class="navbar-brand" href="<?php echo BASE_URL ?>index.php">
                      <img src="<?php echo IMAGES_URL ?>/logo.png" class="img-fluid" alt="logo">
                  </a>
                  <div class="search ml-auto order-md-1">
-                     <a target="_blank" class="menu-btn btn btn-outline-primary ripple-effect"
-                         href="https://gudwil.in/GB3YE">Open An
-                         Account</a>
-                     <a class="searchBoxs" href="javascript:void(0);;">
-                         <i class="fa fa-search" aria-hidden="true"></i>
-                     </a>
+                     <a href="javascript:void(0)" class="menu-btn btn btn-outline-primary ripple-effect searchBoxs">Open An Account</a>
+                     <a class="menu-btn btn btn-outline-primary ripple-effect" href="#ContactUs">Become Our Partner</a>
                  </div>
                  <button class="navbar-toggler menu-icon" type="button" data-toggle="collapse" data-target="#navbarNav"
                      aria-controls="navbarNav" aria-expanded="false" aria-label="Toggle navigation">
@@ -80,13 +76,13 @@
                  <div class="collapse navbar-collapse" id="navbarNav">
                      <ul class="navbar-nav ml-auto align-items-center">
                          <li class="nav-item">
-                             <a class="nav-link" href="<?php echo BASE_URL ?>/index.php">Home</a>
+                             <a class="nav-link" href="<?php echo BASE_URL ?>index.php">Home</a>
                          </li>
                          <li class="nav-item">
-                             <a class="nav-link" href="<?php echo BASE_URL ?>/products.php">Products</a>
+                             <a class="nav-link" href="<?php echo BASE_URL ?>products.php">Products</a>
                          </li>
                          <li class="nav-item">
-                             <a class="nav-link" href="<?php echo BASE_URL?>/pricing.php">Pricing</a>
+                             <a class="nav-link" href="<?php echo BASE_URL?>pricing.php">Pricing</a>
                          </li>
                          <li class="nav-item">
                              <a class="nav-link" href="#ContactUs">Contact Us</a>
