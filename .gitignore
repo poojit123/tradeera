@@ -1,3 +1,6 @@
 # ignore folder and files
 vendor
 .env
+ajax/error_log
+api.tradeera.in/
+error_log
