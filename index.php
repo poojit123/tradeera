@@ -14,15 +14,6 @@
             <div class="banner-carousel owl-theme owl-carousel
                     position-relative">
                 <div class="slide-item">
-                    <div class="img-box" style="background-image:url(assets/images/banner-1.jpg)"></div>
-                    <div class="container">
-                        <div class="content-box">
-                            <h1>Trust and Security</h1>
-                            <p> At Good Will Demat, we prioritize the security of your investments. Our platform adheres to the highest security standards and utilizes cutting-edge encryption technology to safeguard your data and transactions. You can trust us with your valuable securities.</p>
-                        </div>
-                    </div>
-                </div>
-                <div class="slide-item">
                     <div class="img-box" style="background-image:url(assets/images/banner-2.jpg)"></div>
                     <div class="container">
                         <div class="content-box">
@@ -32,11 +23,20 @@
                     </div>
                 </div>
                 <div class="slide-item">
+                    <div class="img-box" style="background-image:url(assets/images/banner-1.jpg)"></div>
+                    <div class="container">
+                        <div class="content-box">
+                            <h1>SIP/Mutual Fund</h1>
+                            <p> Enjoy the Perfect Drink – Sip!, Systematic Investment Plan (SIP) is an investment route offered by Mutual Funds wherein one can invest a fixed amount in a Mutual Fund scheme at regular intervals– say once a month or once a quarter, instead of making a lump-sum investment.</p>
+                        </div>
+                    </div>
+                </div>
+                <div class="slide-item">
                     <div class="img-box" style="background-image:url(assets/images/banner-3.jpg)"></div>
                     <div class="container">
                         <div class="content-box">
-                            <h1>Dedicated Customer Support</h1>
-                            <p>We value our customers and their satisfaction is our top priority. Our dedicated customer support team is available to assist you with any queries or concerns you may have. Count on us for prompt and reliable assistance whenever you need it.</p>
+                            <h1>Refer & Earn</h1>
+                            <p>Introducing our exciting new referral program: "Refer Your Friend and Get Amazing Rewards Up to Rs 1000!". Do you have friends or family members who would benefit from our products/services? Now is the perfect time to spread the word and be rewarded for it!</p>
                         </div>
                     </div>
                 </div>
@@ -49,7 +49,7 @@
                 <div class="searchBox common-shadow bg-white">
                     <div class="commonTitle centered">
                         <div class="searchBox_form">
-                            <p>At Good Will Demat, we believe in empowering individuals to take control of their financial future by providing a secure and convenient platform for dematerialized securities. Whether you are a seasoned investor or just starting your investment journey, we are here to support you every step of the way.</p>
+                            <p><b>Trade Era</b>: "It's not whether you're right or wrong that's important, but how much money you make when you're right and how much you lose when you're wrong."</p>
                             <a href="javascript:void(0)" class="btn btn-primary ripple-effect text-uppercase searchBoxs"><i class="fa fa-info-circle"></i>For Enquiry</a>
                         </div>
                     </div>

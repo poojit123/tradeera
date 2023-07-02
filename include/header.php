@@ -62,8 +62,21 @@
                      <img src="<?php echo IMAGES_URL ?>/logo.png" class="img-fluid" alt="logo">
                  </a>
                  <div class="search ml-auto order-md-1">
-                     <a href="javascript:void(0)" class="menu-btn btn btn-outline-primary ripple-effect searchBoxs">Open An Account</a>
-                     <a class="menu-btn btn btn-outline-primary ripple-effect" href="#ContactUs">Become Our Partner</a>
+                    <li class="list-inline-item">
+                        <div class="dropdown">
+                            <a class="dropdown-toggle f-bold" href="javascript:void(0);" role="button" id="dropdownMenuLink"
+                                data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">
+                                Open An Account
+                            </a>
+                            <div class="dropdown-menu dropdown-menu-right" aria-labelledby="dropdownMenuLink">
+                                <a class="dropdown-item" target="_blank"
+                                    href="https://premium-partners.indiainfoline.com/common/openaccount?E1Code=Tv%20GLS2RGUjaacRUBv9J0A%3D%3D&SourceChannelID=KBWtK3WkgyXc2SanaseYhg%3D%3D">iifl account</a>
+                                <a class="dropdown-item" target="_blank"
+                                    href="https://businesspartner.gwcindia.in/landingpage/index.php?id=4496&type=mail&client_code=GB3EB">gwc account</a>
+                            </div>
+                        </div>
+                    </li>
+                    <a class="menu-btn btn btn-outline-primary ripple-effect" href="#ContactUs">Become Our Partner</a>
                  </div>
                  <button class="navbar-toggler menu-icon" type="button" data-toggle="collapse" data-target="#navbarNav"
                      aria-controls="navbarNav" aria-expanded="false" aria-label="Toggle navigation">
